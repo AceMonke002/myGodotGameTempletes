@@ -5,17 +5,6 @@ This repository contains reusable templates for character controllers in Godot. 
 - **First-Person Character Controller** (3D)
 - **2D Character Controller** (Platformer-style)
 
-## 📂 Project Structure
-
-📁 myGodotGameTempletes
-│── 📁 Projects
-│   ├── 📁 FirstPersonController
-│   │   ├── 
-│   ├── 📁 TwoDCharacterController
-│   │   ├── 
-│── README.md
-
-
 ## 🎮 Features
 
 ### First-Person Controller (3D)
